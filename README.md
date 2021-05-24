@@ -1,4 +1,6 @@
-# Peer-graded-Assignment-Functional-and-Object-Oriented-Programming
+# Advanced R Programming Course Project
+
+
 This is the course project for Coursera's [Advanced R Programming](https://www.coursera.org/learn/advanced-r) class offered by the Johns Hopkins University.
 
 The repo includes the following files:
